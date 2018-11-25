@@ -3,13 +3,12 @@ Open Ocean is a PC video game developed by Mathew Tomberlin. Interact with and l
 to the Monterey Bay. The player can take part in minigames to help out a lonely Mola mola named Sunny or casually travel up and down the
 water column to learn about the different species.
 
-# Open Ocean VR
+# Creating Open Ocean VR, a Capstone project
 Open Ocean VR was a game developed by Mathew Tomberlin, Ryan Blakeman, Jason Ferrer and Emily Turnage for the California State University, 
 Monterey Bay 2018 Capstone class and festival. The game utilized the Oculus Rift and Oculus Move controllers to allow a player to interact
-with and learn about marine creatures from within a virtual reality environment. The game was meant to be an immersive learning experience
-for those who might not otherwise have access to an aquarium.
+with and learn about marine creatures from within a virtual reality environment. Open Ocean VR was meant to be an immersive learning experience for those who might not otherwise have access to an aquarium.
 
-# Developing Open Ocean
+# Developing Open Ocean Along the Way
 Mathew Tomberlin was responsible for all 3d models, animations, movement behaviors, spawning behaviors and designer tools and minigame 
 questing system during the development of Open Ocean VR. In order to develop the VR game, Mat also developed a non-VR version for 
 prototyping, design and debugging without a headset. This version, simply called Open Ocean, was developed exclusively by Mathew Tomberlin 
